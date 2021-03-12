@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": "Space travel",
+      "body": "I´d like to become an astronaut",
+      "done": false,
+      "id": 1
+    },
+    {
+      "title": "Computer",
+      "body": "I have to build one",
+      "done": false,
+      "id": 2
+    },
+    {
+      "title": "Drink",
+      "body": "Glad you asked!",
+      "done": false,
+      "id": 3
+    },
+    {
+      "title": "Barbecue",
+      "body": "Let´s do some calçots",
+      "done": false,
+      "id": 10
+    }
+  ]
+}
